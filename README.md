@@ -1,16 +1,22 @@
-### Hi there 👋
+### Person
 
-<!--
-**graeme-winter/graeme-winter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aging scientist / software developer / hacker learning to use newer
+tools (hello `dask`, `numpy` & friends)
 
-Here are some ideas to get you started:
+Pronouns: he / him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Work
+
+High performance data handling, experiment control systems,
+automation, automated data analysis, smart algorithms. Knowing stuff
+about synchrotron MX.
+
+### Play
+
+Programming µcontrollers at the moment (pi pico right now) - starting
+with µpython but looking to maybe migrate over to `C` (though really
+interested about using PIO blocks 🤔
+
+Still at the driving servo / reading ADC phase though. And having to
+put together some basic tools for working with `picoscroll` top.
+
