@@ -28,3 +28,5 @@ Trying to make these things "proper" e.g. with the
 
 Also dredging up some HPC stuff from "back in the day" to re-learn GPU
 programming etc. in hobby time.
+
+<a rel="me" href="https://mas.to/@graemewinter">me@mastadon</a>
