@@ -1,21 +1,19 @@
 ### Person
 
-Aging scientist / software developer / hacker learning to use newer tools (hello `dask`, `numpy`, `openCL` & friends) - and now moving on to lower level matters like assembly programming, DMA, interrupt and real-time systems on microcontrollers, which is a lot of fun.
+Aging scientist / software developer / hacker learning to use newer tools (`dask`, `numpy`, `openCL`, `CUDA` with a little HLS) - and now moving on to lower level matters like assembly programming, DMA, interrupt and real-time systems on microcontrollers, which is a lot of fun.
 
-Pronouns: he / him
+Pronouns: he / him / his
 
 [Blog](https://graeme-winter.github.io/)
 
 ### Work
 
-High performance data handling, experiment control systems, automation, automated data analysis, smart algorithms. Knowing stuff about synchrotron MX.
+High performance data handling, experiment control systems, automation, automated data analysis, smart algorithms. Knowing stuff about synchrotron MX. Moving west to NE-CAT / Cornell university in the near future.
 
 ### Play
 
-Programming µcontrollers at the moment (pi pico right now) - starting with µpython but looking to maybe migrate over to `C` (though really interested about using PIO blocks 🤔). Still at the driving servo / reading ADC phase though. And having to put together some basic tools for working with `picoscroll` top.
+Programming µcontrollers at the moment (RP2040 / 2350 and SAMD51 right now) - starting with µpython but more `C`, assembly, CMSIS now (though really interested about using PIO blocks - they're cool).
 
-Trying to make these things "proper" e.g. with the [picoripheral](https://github.com/winter-special-projects/picoripheral)
-
-Also dredging up some HPC stuff from "back in the day" to re-learn GPU programming etc. in hobby time.
+Also dredging up some HPC stuff from "back in the day" to re-learn GPU programming etc. in hobby time. Hobby time is where the good stuff happens like [FPGA spot finder prototype](https://github.com/graeme-winter/fpga-spot-finder).
 
 <a rel="me" href="https://mas.to/@graemewinter">me@mastadon</a>
