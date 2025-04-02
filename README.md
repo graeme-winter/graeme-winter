@@ -8,7 +8,7 @@ Pronouns: he / him / his
 
 ### Work
 
-High performance data handling, experiment control systems, automation, automated data analysis, smart algorithms. Knowing stuff about synchrotron MX. Moving west to NE-CAT / Cornell university in the near future.
+High performance data handling, experiment control systems, automation, automated data analysis, smart algorithms. Knowing stuff about synchrotron MX, data nerd. Associate director at NE-CAT at the APS near Chicago.
 
 ### Play
 
